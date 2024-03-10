@@ -10,4 +10,5 @@ iframe{
     rotate: 180deg;
     border-top-right-radius: 40px;
     border-top-left-radius: 40px;
+    rotateY: 180deg;
 }
